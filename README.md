@@ -1,1 +1,2 @@
-# JAVA week 3
+# PASSWORD CODE GENERATOR
+once, you open the webpage dedicated to this code, you find a Password generator that works perfectly. Staying clean and organized was key for me. Having starter code was a big help to get this challenge finsihed and started. Great majority of the JS was inspired by previous JS class moduels, and google, which  helped set a foundation to the project. 
